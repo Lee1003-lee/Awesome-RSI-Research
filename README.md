@@ -819,6 +819,7 @@ Four targets of RSI-related evolution, following the survey taxonomy. These cate
 | 2026 | TTCS: Test-Time Curriculum Synthesis for Self-Evolving | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.22628) |
 | 2025 | R-Zero: Self-Evolving Reasoning LLM from Zero Data | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.05004) |
 | 2025 | Guided Self-Evolving LLMs with Minimal Human Supervision | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.02472) |
+| 2025 | VisPlay: Self-Evolving Vision-Language Models from Images | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.15661) |
 
 ##### Optimization Loops: Open Skill Loop
 
@@ -839,6 +840,7 @@ Four targets of RSI-related evolution, following the survey taxonomy. These cate
 | 2026 | TTCS: Test-Time Curriculum Synthesis for Self-Evolving | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.22628) |
 | 2025 | R-Zero: Self-Evolving Reasoning LLM from Zero Data | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.05004) |
 | 2025 | Guided Self-Evolving LLMs with Minimal Human Supervision | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.02472) |
+| 2025 | VisPlay: Self-Evolving Vision-Language Models from Images | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.15661) |
 
 
 ### Research-Process Evolution
