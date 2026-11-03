@@ -631,6 +631,7 @@ Four targets of RSI-related evolution, following the survey taxonomy. These cate
 
 | Date | Title | Paper |
 |:----:|:------|:-----:|
+| 2026 | Learning from Repair Experience: Self-Evolving Agents for Automated Vulnerability Repair | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.30105) |
 | 2026 | Bad Memory: Evaluating Prompt Injection Risks from Memory in Agentic Systems | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.14611) |
 | 2026 | Experience Graphs: The Data Foundation for Self-Improving Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.29823) |
 | 2026 | Metis: Bridging Text and Code Memory for Self-Evolving Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.24151) |
